@@ -1,0 +1,13 @@
+{
+  "name": "@sun33t/prettier-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "My personal prettier configuration",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sun33t/prettier-config"
+  },
+  "author": "Suneet Misra <hello@suneet.codes>",
+  "license": "MIT",
+  "prettier": {}
+}
