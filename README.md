@@ -19,9 +19,7 @@ Add to the prettier property within the package.json of your project.
 ```json
 {
     //...
-    "prettier": {
-        "@sun33t/prettier-config"
-    }
+    "prettier": "@sun33t/prettier-config",
 }
 ```
 
